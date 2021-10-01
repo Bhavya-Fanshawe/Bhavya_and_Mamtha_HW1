@@ -1,0 +1,1 @@
+This folder will cotain all my css files which I'll be using to give styling to my project.

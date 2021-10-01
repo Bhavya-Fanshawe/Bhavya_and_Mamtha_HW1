@@ -1,0 +1,1 @@
+this folder will contain all the JPEG and PNG I use for the project.
